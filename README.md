@@ -13,6 +13,7 @@ This project demonstrates a **powerful collaboration between Claude Code and Ope
 
 **Original Files (Only These Existed Initially)**:
 ```
+CLAUDE.MD
 .claude/
 └── skills/
     ├── opencode-agent-generator/     # Claude Code skill to create agents
