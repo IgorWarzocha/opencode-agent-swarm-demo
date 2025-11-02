@@ -31,8 +31,6 @@ CLAUDE.MD
 ├── haiku-coordinator/               # Generated: Specialized agent folder
 │   ├── .opencode/                   # Generated: Agent server config
 │   ├── AGENTS.md                    # Generated: Communication protocols
-│   ├── moonlight_haikus.md          # Generated: Task output
-│   └── haiku_collection.md          # Generated: Extended work product
 ├── poetry-translator/               # Generated: Specialized agent folder
 ├── theme-synchronizer/              # Generated: Specialized agent folder
 ├── quality-reviewer/               # Generated: Specialized agent folder
