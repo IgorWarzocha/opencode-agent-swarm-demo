@@ -36,8 +36,6 @@ CLAUDE.MD
 ├── quality-reviewer/               # Generated: Specialized agent folder
 ├── cultural-advisor/               # Generated: Specialized agent folder
 ├── AGENTS.md                       # Generated: Coordination documentation
-├── CLAUDE.md                       # Generated: Project instructions
-└── README.md                       # Generated: This documentation
 ```
 
 **Key Point**: Everything except `.claude/skills/` was generated through the **Claude Code + OpenCode collaboration**!
